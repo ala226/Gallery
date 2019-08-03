@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NAME</key>
+		<string>summer</string>
+		<key>DSC</key>
+		<string>Warm weather, swimming and vacations — such events often herald the arrival of summer. Most people mistakenly believe that the season starts with the dawn of the summer solstice, but there are actually two definitions of summer. Let&apos;s take a look at the hottest time of the year.</string>
+		<key>IMAGE</key>
+		<string>summer</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Winter</string>
+		<key>DSC</key>
+		<string>Winter is the coldest season of the year in polar and temperate zones (winter does not occur in most of the tropical zone). It occurs after autumn and before spring in each year. Winter is caused by the axis of the Earth in that hemisphere being oriented away from the Sun. Different cultures define different dates as the start of winter, and some use a definition based on weather</string>
+		<key>IMAGE</key>
+		<string>winter</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Natural</string>
+		<key>DSC</key>
+		<string>ny languages, articles are a special part of speech which cannot be easily combined[clarification needed] with other parts of speech. In English grammar, articles are frequently considered part of a broader category called determiners, which contains articles,</string>
+		<key>IMAGE</key>
+		<string>view3</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Road</string>
+		<key>DSC</key>
+		<string>wonderful</string>
+		<key>IMAGE</key>
+		<string>view4</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Flower</string>
+		<key>DSC</key>
+		<string>amazing</string>
+		<key>IMAGE</key>
+		<string>view5</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>imag1</string>
+		<key>DSC</key>
+		<string>dcmkmkiowm</string>
+		<key>IMAGE</key>
+		<string>view6</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>imag1</string>
+		<key>DSC</key>
+		<string>dcmkmkiowm</string>
+		<key>IMAGE</key>
+		<string>view7</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>imag1</string>
+		<key>DSC</key>
+		<string>dcmkmkiowm</string>
+		<key>IMAGE</key>
+		<string>view8</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>imag1</string>
+		<key>DSC</key>
+		<string>dcmkmkiowm</string>
+		<key>IMAGE</key>
+		<string>view9</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>imag1</string>
+		<key>DSC</key>
+		<string>dcmkmkiowm</string>
+		<key>IMAGE</key>
+		<string>view11</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>IMAG10</string>
+		<key>DSC</key>
+		<string>MSKLCMKCMSK</string>
+		<key>IMAGE</key>
+		<string>view10</string>
+	</dict>
+</array>
+</plist>
